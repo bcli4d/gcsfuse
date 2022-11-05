@@ -50,7 +50,7 @@ require (
 	github.com/jacobsa/reqtrace v0.0.0-20150505043853-245c9e0234cb // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/pkg/xattr v0.4.8 // indirect
-	github.com/prometheus/prometheus v2.5.0+incompatible // indirect
+	github.com/prometheus/prometheus v2.33.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f // indirect
